@@ -76,13 +76,11 @@ Here are some things that have proven useful to put on your to-do list.
 ### On the day
 
 - [ ] Create sign so visitors can find their way in the building.
-- [ ] Check the
-- [ ] Maak eigen eigen promotie materiaal beschikbaar
-- [ ] Zorg dat er badges voor de bezoekers zijn (indien nodig)
+- [ ] Check if the projector/television is working properly and adapters are available.
+- [ ] Make sure badges are available for the visitors
 
 ### After the event
 
-- [ ] Opruimen & afwassen
-- [ ] Zorg dat de presentaties beschikbaar zijn voor de bezoekers
-- [ ] Laat de gehuurde spullen afhalen
-- [ ] Deel het verslag via de eigen kanalen (blogposts, etc)
+- Clean up and do the dishes
+- Make presentations available to attendees
+- Share photos and posts through your own channels (blog, twitter, linkedin, etc)
