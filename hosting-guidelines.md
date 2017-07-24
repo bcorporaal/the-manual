@@ -1,11 +1,14 @@
 <p align="center"><img src="/identity/ux_cocktail_hour_logo_text_v02.png" width=499 height=136 alt="UX Cocktail Hour Rotterdam logo"></p>
 
-# Hosting a UX Cocktail Hour Rotterdam
+# Hosting an UX Cocktail Hour Rotterdam meetup event
 
 ## The concept
-UX Cocktail Hour Rotterdam is een (on)regelmatig terugkerende borrel/presentatie avond voor iedereen die een interesse heeft in het UX vakgebied. Het doel is om kennis te delen, vakgenoten en bedrijven te leren kennen. Het is inspirerend, leerzaam, informeel en vriendelijk.
+The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. It was founded in 2001 in Amsterdam by Peter Boersma and  found its way to Rotterdam in 2011. We have speakers and workshops on topics related to UX: design, research, projects, education and development. There is ample opportunity to enjoy a drink and chat. There are about 4 events a year. Each edition is at a different location in or nearby Rotterdam.
 
-Het format kan verschillen per avond en de enige vaste factor is dat er altijd cocktails zijn.
+Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
+
+## Hosting a meetup
+< To be written >
 
 ## General event planning
 
@@ -28,11 +31,11 @@ Het format kan verschillen per avond en de enige vaste factor is dat er altijd c
     </tr>
 </table>
 
-Deze planning is flexibel maar hou er rekening mee dat iedereen er al een werkdag op heeft zitten. Rond 22.00 neemt de aandacht sterk af en is het tijd om te gaan borrelen. Ook moeten bezoekers die van verder komen vaak richting huis.
+The planning is flexible but keep in mind that most visitors have just finished an eight hour work day. So keep the evening compact and leave room for drinks and networking at the end. Around 22.00 you will find that (some) people will want to go home.
 
-Begin het programma met een korte en relevante presentatie over jouw bedrijf of organisatie. Waarschijnlijk is het publiek hier nieuwsgierig naar, zeker vanuit het UX perspectief.
+## Presentations and workshop
+Reqarding presentations start with what you
 
-## Presentations
 Qua niveau van de presentaties kun je het beste uitgaan van wat je collega vakgenoten zou willen vertellen. En wat jij zou willen horen van je collega’s. Geen algemene verhalen over wat UX, scrum, onderzoek of front-end is. Maar specifieke ideeën, oplossingen, uitdagingen, tips, etc.
 Het publiek denkt heel sterk in ‘wat zie en leer ik hier vandaag dat ik morgen in mijn situatie kan toepassen?’. Cases zijn daarmee hele geschikte onderwerpen. Zeker wanneer je ook laat zien wat er misging en wat je er van hebt geleerd.
 
@@ -43,42 +46,37 @@ Een andere leuke aanvulling is een workshop. Dat zorgt voor een actieve dynamiek
 Een ideale avond zou je dus kunnen zien als 1 of 2 korte presentaties van een eigen of een externe spreker en daarna aan de slag in een leuke workshop. Maar iets anders kan natuurlijk ook!
 
 ## Visitors
-Hoeveel bezoekers er bij een avond kunnen zijn hangt af van de beschikbare ruimte. Over het algemeen ligt het ergens tussen de 40 en 60 bezoekers. Vergeet ook niet eigen medewerkers, je netwerk en misschien klanten uit te nodigen. Deze zijn zeker ook van harte welkom.
+The number of visitors to be invited depends on the available space. In general it is between 40 and 60 people. Don't forget to invite your own employees, network and perhaps customers. They are welcome too of course.
+
 
 ## To-do list
+Here are some things that have proven useful to put on your to-do list.
 
-### Together with UX Cocktail Hour organization
+### Planning the meetup (together with the UX Cocktail Hour organization)
 
-- [ ] Kies een onderwerp dat bij jou en bij de UX Cocktail Hour past
-- [ ] Zoek sprekers bij het onderwerp - Is er misschien ook een leuke workshop bij te bedenken?
-- [ ] Wordt de avond in het Engels of in het Nederlands? (De voorkeur is Nederlands)
-- [ ] Kies een datum (en tijd)
-- [ ] Maak een ruwe planning - zorg dat er genoeg tijd is om te borrelen en hou de planning erg ruim, het loopt altijd uit.
+- [ ] Pick a topic that fits both your organization and the UX Cocktail Hour
+- [ ] Find speakers to go with the topic - Is the perhaps a workshop possible to?
+- [ ] Determine the language for the evening. Dutch is our preference but English is no problem.
+- [ ] Pick a date.
+- [ ] Plan the evening. Leave ample time for networking and keep in mind that things always run late.
 
 ### Ahead of the meetup
 
-- [ ] Stel een ruw budget op - UX Cocktail Hour Rotterdam heeft zelf geen budget beschikbaar
-- [ ] Stel een draaiboek op van de avond - wat is ongeveer de planning?
-- [ ] Bepaal hoeveel bezoekers er kunnen zijn - denk ook aan eigen medewerkers en gasten
-- [ ] Overleg met de beveiliging van het pand en zorg dat de bezoekers eenvoudig naar binnen kunnen (zijn er bijvoorbeeld pasjes?)
-- [ ] Zorg dat er genoeg stoelen zijn
-- [ ] Zorg voor kapstokken
-- [ ] Kies lekkere cocktail recepten (maak het jezelf niet te moeilijk)
-- [ ] Zorg voor aankopen (drank, hapjes, etc) (ervaring leert dat er persoon max 2 cocktails gedronken, verder fris, bier en wijn)
-- [ ] Zorg dat er iemand foto's gaat maken
-- [ ] Richt de ruimte in / ruim op (denk ook aan gevoelig materiaal)
-- [ ] Nodig het eigen netwerk uit (waar mogelijk via Meetup aan laten melden)
-- [ ] Samenstellen achtergrond muziek (als je dat leuk vindt)
-- [ ] Zorg dat er mensen zijn om mee te helpen, cocktails te maken, de weg te wijzen, deur open te doen, etc.
-- [ ] Zorg voor een eenvoudige presentatie of andere manier om wifi toegang en de hashtag (#ux010) te promoten
+- [ ] Set a budget for the evening - keep in mind that the UX Cocktail Hour has no budget available.
+- [ ] Set a schedule for the evening.
+- [ ] Check with building security and make sure visitors can enter.
+- [ ] Ensure there is sufficient seating and coat hangers.
+- [ ] Do some shopping for drinks and snacks (on average people drink 3 to 4 drinks).
+- [ ] Have somebody take pictures.
+- [ ] Decorate the place. Also remove or cover any sensitive projects and materials.
+- [ ] Invite your own network. If possible through the meetup site.
+- [ ] Make a playlist with party music or look for your resident dj.
+- [ ] Enlist people to open the door, help with mixing drinks, handing out badges, etc.
 
 ### On the day
 
-- [ ] Zorg voor zichtbare bewegwijzering in het pand - voordeur, lift, gang, etc
-- [ ] Indien nodig, laat iemand bij de voordeur staan om bezoekers te ontvangen
-- [ ] Indien nodig, zorg dat laatkomers ook het pand in kunnen
-- [ ] Zorg voor gasttoegang tot wifi - denk ook aan briefjes met wachtwoord
-- [ ] Controleer of beamer/tv het goed doet en alle kabels er zijn
+- [ ] Create sign so visitors can find their way in the building.
+- [ ] Check the
 - [ ] Maak eigen eigen promotie materiaal beschikbaar
 - [ ] Zorg dat er badges voor de bezoekers zijn (indien nodig)
 
