@@ -39,6 +39,7 @@ Hoeveel bezoekers er bij een avond kunnen zijn hangt af van de beschikbare ruimt
 ## To-do list
 
 ### Together with UX Cocktail Hour organization
+
 - [] Kies een onderwerp dat bij jou en bij de UX Cocktail Hour past
 - [] Zoek sprekers bij het onderwerp - Is er misschien ook een leuke workshop bij te bedenken?
 - [] Wordt de avond in het Engels of in het Nederlands? (De voorkeur is Nederlands)
@@ -46,6 +47,7 @@ Hoeveel bezoekers er bij een avond kunnen zijn hangt af van de beschikbare ruimt
 - [] Maak een ruwe planning - zorg dat er genoeg tijd is om te borrelen en hou de planning erg ruim, het loopt altijd uit.
 
 ### Ahead of the meetup
+
 - [] Stel een ruw budget op - UX Cocktail Hour Rotterdam heeft zelf geen budget beschikbaar
 - [] Stel een draaiboek op van de avond - wat is ongeveer de planning?
 - [] Bepaal hoeveel bezoekers er kunnen zijn - denk ook aan eigen medewerkers en gasten
@@ -62,6 +64,7 @@ Hoeveel bezoekers er bij een avond kunnen zijn hangt af van de beschikbare ruimt
 - [] Zorg voor een eenvoudige presentatie of andere manier om wifi toegang en de hashtag (#ux010) te promoten
 
 ### On the day
+
 - [] Zorg voor zichtbare bewegwijzering in het pand - voordeur, lift, gang, etc
 - [] Indien nodig, laat iemand bij de voordeur staan om bezoekers te ontvangen
 - [] Indien nodig, zorg dat laatkomers ook het pand in kunnen
@@ -70,7 +73,8 @@ Hoeveel bezoekers er bij een avond kunnen zijn hangt af van de beschikbare ruimt
 - [] Maak eigen eigen promotie materiaal beschikbaar
 - [] Zorg dat er badges voor de bezoekers zijn (indien nodig)
 
-### After the even-
+### After the event
+
 - [] Opruimen & afwassen
 - [] Zorg dat de presentaties beschikbaar zijn voor de bezoekers
 - [] Laat de gehuurde spullen afhalen
