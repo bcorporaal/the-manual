@@ -8,6 +8,10 @@ UX Cocktail Hour Rotterdam is een (on)regelmatig terugkerende borrel/presentatie
 Het format kan verschillen per avond en de enige vaste factor is dat er altijd cocktails zijn.
 
 ## General event planning
+
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 19.00         Deuren open
 19.30         Begin programma
 ±22.00     Einde programma, hierna kan iedereen nog blijven om wat te drinken.
