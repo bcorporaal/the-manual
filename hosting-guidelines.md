@@ -40,42 +40,42 @@ Hoeveel bezoekers er bij een avond kunnen zijn hangt af van de beschikbare ruimt
 
 ### Together with UX Cocktail Hour organization
 
-- [] Kies een onderwerp dat bij jou en bij de UX Cocktail Hour past
-- [] Zoek sprekers bij het onderwerp - Is er misschien ook een leuke workshop bij te bedenken?
-- [] Wordt de avond in het Engels of in het Nederlands? (De voorkeur is Nederlands)
-- [] Kies een datum (en tijd)
-- [] Maak een ruwe planning - zorg dat er genoeg tijd is om te borrelen en hou de planning erg ruim, het loopt altijd uit.
+- [ ] Kies een onderwerp dat bij jou en bij de UX Cocktail Hour past
+- [ ] Zoek sprekers bij het onderwerp - Is er misschien ook een leuke workshop bij te bedenken?
+- [ ] Wordt de avond in het Engels of in het Nederlands? (De voorkeur is Nederlands)
+- [ ] Kies een datum (en tijd)
+- [ ] Maak een ruwe planning - zorg dat er genoeg tijd is om te borrelen en hou de planning erg ruim, het loopt altijd uit.
 
 ### Ahead of the meetup
 
-- [] Stel een ruw budget op - UX Cocktail Hour Rotterdam heeft zelf geen budget beschikbaar
-- [] Stel een draaiboek op van de avond - wat is ongeveer de planning?
-- [] Bepaal hoeveel bezoekers er kunnen zijn - denk ook aan eigen medewerkers en gasten
-- [] Overleg met de beveiliging van het pand en zorg dat de bezoekers eenvoudig naar binnen kunnen (zijn er bijvoorbeeld pasjes?)
-- [] Zorg dat er genoeg stoelen zijn
-- [] Zorg voor kapstokken
-- [] Kies lekkere cocktail recepten (maak het jezelf niet te moeilijk)
-- [] Zorg voor aankopen (drank, hapjes, etc) (ervaring leert dat er persoon max 2 cocktails gedronken, verder fris, bier en wijn)
-- [] Zorg dat er iemand foto's gaat maken
-- [] Richt de ruimte in / ruim op (denk ook aan gevoelig materiaal)
-- [] Nodig het eigen netwerk uit (waar mogelijk via Meetup aan laten melden)
-- [] Samenstellen achtergrond muziek (als je dat leuk vindt)
-- [] Zorg dat er mensen zijn om mee te helpen, cocktails te maken, de weg te wijzen, deur open te doen, etc.
-- [] Zorg voor een eenvoudige presentatie of andere manier om wifi toegang en de hashtag (#ux010) te promoten
+- [ ] Stel een ruw budget op - UX Cocktail Hour Rotterdam heeft zelf geen budget beschikbaar
+- [ ] Stel een draaiboek op van de avond - wat is ongeveer de planning?
+- [ ] Bepaal hoeveel bezoekers er kunnen zijn - denk ook aan eigen medewerkers en gasten
+- [ ] Overleg met de beveiliging van het pand en zorg dat de bezoekers eenvoudig naar binnen kunnen (zijn er bijvoorbeeld pasjes?)
+- [ ] Zorg dat er genoeg stoelen zijn
+- [ ] Zorg voor kapstokken
+- [ ] Kies lekkere cocktail recepten (maak het jezelf niet te moeilijk)
+- [ ] Zorg voor aankopen (drank, hapjes, etc) (ervaring leert dat er persoon max 2 cocktails gedronken, verder fris, bier en wijn)
+- [ ] Zorg dat er iemand foto's gaat maken
+- [ ] Richt de ruimte in / ruim op (denk ook aan gevoelig materiaal)
+- [ ] Nodig het eigen netwerk uit (waar mogelijk via Meetup aan laten melden)
+- [ ] Samenstellen achtergrond muziek (als je dat leuk vindt)
+- [ ] Zorg dat er mensen zijn om mee te helpen, cocktails te maken, de weg te wijzen, deur open te doen, etc.
+- [ ] Zorg voor een eenvoudige presentatie of andere manier om wifi toegang en de hashtag (#ux010) te promoten
 
 ### On the day
 
-- [] Zorg voor zichtbare bewegwijzering in het pand - voordeur, lift, gang, etc
-- [] Indien nodig, laat iemand bij de voordeur staan om bezoekers te ontvangen
-- [] Indien nodig, zorg dat laatkomers ook het pand in kunnen
-- [] Zorg voor gasttoegang tot wifi - denk ook aan briefjes met wachtwoord
-- [] Controleer of beamer/tv het goed doet en alle kabels er zijn
-- [] Maak eigen eigen promotie materiaal beschikbaar
-- [] Zorg dat er badges voor de bezoekers zijn (indien nodig)
+- [ ] Zorg voor zichtbare bewegwijzering in het pand - voordeur, lift, gang, etc
+- [ ] Indien nodig, laat iemand bij de voordeur staan om bezoekers te ontvangen
+- [ ] Indien nodig, zorg dat laatkomers ook het pand in kunnen
+- [ ] Zorg voor gasttoegang tot wifi - denk ook aan briefjes met wachtwoord
+- [ ] Controleer of beamer/tv het goed doet en alle kabels er zijn
+- [ ] Maak eigen eigen promotie materiaal beschikbaar
+- [ ] Zorg dat er badges voor de bezoekers zijn (indien nodig)
 
 ### After the event
 
-- [] Opruimen & afwassen
-- [] Zorg dat de presentaties beschikbaar zijn voor de bezoekers
-- [] Laat de gehuurde spullen afhalen
-- [] Deel het verslag via de eigen kanalen (blogposts, etc)
+- [ ] Opruimen & afwassen
+- [ ] Zorg dat de presentaties beschikbaar zijn voor de bezoekers
+- [ ] Laat de gehuurde spullen afhalen
+- [ ] Deel het verslag via de eigen kanalen (blogposts, etc)
