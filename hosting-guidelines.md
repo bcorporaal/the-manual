@@ -15,6 +15,19 @@ Het format kan verschillen per avond en de enige vaste factor is dat er altijd c
 | 21.00 | End of presentations |
 | 22.00 | End of event         |
 
+<table align="center">
+    <tr>
+        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text</td>
+        <td align="center">More text</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
+</table>
+
 Deze planning is flexibel maar hou er rekening mee dat iedereen er al een werkdag op heeft zitten. Rond 22.00 neemt de aandacht sterk af en is het tijd om te gaan borrelen. Ook moeten bezoekers die van verder komen vaak richting huis.
 
 Begin het programma met een korte en relevante presentatie over jouw bedrijf of organisatie. Waarschijnlijk is het publiek hier nieuwsgierig naar, zeker vanuit het UX perspectief.
