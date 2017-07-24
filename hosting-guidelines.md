@@ -9,15 +9,11 @@ Het format kan verschillen per avond en de enige vaste factor is dat er altijd c
 
 ## General event planning
 
-| Content from cell 1 | Content from cell 2 |
-| Content in the first column | Content in the second column |
-
-- [ ] foo
-- [x] bar
-
-19.00         Deuren open
-19.30         Begin programma
-±22.00     Einde programma, hierna kan iedereen nog blijven om wat te drinken.
+| 19.00 | Open doors           |
+|-------|----------------------|
+| 19.30 | Start event          |
+| 21.00 | End of presentations |
+| 22.00 | End of event         |
 
 Deze planning is flexibel maar hou er rekening mee dat iedereen er al een werkdag op heeft zitten. Rond 22.00 neemt de aandacht sterk af en is het tijd om te gaan borrelen. Ook moeten bezoekers die van verder komen vaak richting huis.
 
