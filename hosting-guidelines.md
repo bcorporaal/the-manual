@@ -9,22 +9,22 @@ Het format kan verschillen per avond en de enige vaste factor is dat er altijd c
 
 ## General event planning
 
-| 19.00 | Open doors           |
-|-------|----------------------|
-| 19.30 | Start event          |
-| 21.00 | End of presentations |
-| 22.00 | End of event         |
-
-<table align="center">
+<table align="left">
     <tr>
-        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text</td>
-        <td align="center">More text</td>
+        <td align="left">19.00</td>
+        <td align="left">Open doors</td>
     </tr>
     <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
+        <td align="left">19.30</td>
+        <td align="left">Start event</td>
+    </tr>
+      <tr>
+        <td align="left">21.00</td>
+        <td align="left">End of presentations</td>
+    </tr>
+      <tr>
+        <td align="left">22.00</td>
+        <td align="left">End of event</td>
     </tr>
 </table>
 
