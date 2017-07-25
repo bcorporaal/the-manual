@@ -64,6 +64,10 @@ The number of attendees to be invited depends on the available space. In general
 All the RSVP's are handled through the meetup.com page. We can provide an up to date list of attendees before the event. E-mail addresses of the attendees are not available for the host.
 
 
+## Logo materials
+In the [identity directory](../identity) you can find the UX Cocktail Hour logo in various formats. You can use this on signage, blog posts or whatever you can come up with.
+
+
 ## To-do list
 Below are some things that have proven useful to put on your to-do list.
 
