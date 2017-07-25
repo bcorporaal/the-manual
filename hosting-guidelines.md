@@ -28,6 +28,10 @@ Each event follows this general planning. It is flexible but keep in mind that m
     </tr>
     <tr>
         <td align="left">19.30</td>
+        <td align="left">Introduction (by Bob)</td>
+    </tr>
+    <tr>
+        <td align="left">19.35</td>
         <td align="left">Start presentations</td>
     </tr>
       <tr>
