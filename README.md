@@ -9,7 +9,7 @@ The UX Cocktail Hour Rotterdam is an informal event for everyone who has an inte
 Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
 
 ## Organizing a meetup
-If you are interested in hosting a meetup read the [hosting guidelines and tips](/hosting-guidelines.md) for more information and get in touch with [Bob](mailto:bob@reefscape.net).
+If you are interested in hosting a meetup read the [hosting guidelines and tips](/hosting-guidelines.md) for more information and get in touch with [Bob Corporaal](mailto:bob@reefscape.net).
 
 ## Attending a meetup
 Join us on [meetup.com](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/) to stay up to date on upcoming events.
