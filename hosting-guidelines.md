@@ -65,7 +65,7 @@ All the RSVP's are handled through the meetup.com page. We can provide an up to 
 
 
 ## Logo materials
-In the [identity directory](../identity) you can find the UX Cocktail Hour logo in various formats. You can use this on signage, blog posts or whatever you can come up with.
+In the [identity directory](identity) you can find the UX Cocktail Hour logo in various formats. You can use this on signage, blog posts or whatever you can come up with.
 
 
 ## To-do list
