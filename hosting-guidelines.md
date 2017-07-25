@@ -5,7 +5,7 @@ This is a short overview of how to organize an UX Cocktail Hour meetup. No worri
 
 
 ## The concept
-The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and was organized by [Peter Boersma](https://twitter.com/pboersma). In 2011 it found its way to Rotterdam.
+The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and is organized by Peter Boersma. In 2011 it found its way to Rotterdam.
 
 The Rotterdam edition is organized by [Bob Corporaal](https://reefscape.net).
 
@@ -15,11 +15,10 @@ We organize about 3 to 4 events a year. Currently we have about 1300 members in 
 
 
 ## Hosting a meetup
-If you want to organize an UX Cocktail Hour just [get in touch](mailto://bob@reefscape.net). As you can read below it is not very complex. We just need a place, some drinks and a presentation.
+If you want to organize an UX Cocktail Hour just [get in touch](mailto://bob@reefscape.net). As you can read below it is not very complex. We just need a place, some drinks and a presentation. It is a great way to share your knowledge, get to know new people and be inspired by the audience.
 
-Below you can read some practical guidelines for organizing a meetup.
 
-### General event outline
+## General event outline
 Each event follows this general planning. It is flexible but keep in mind that most attendees have just finished an eight hour work day. So keep the evening compact and leave room for drinks and networking at the end. Around 22.00 you will find that (some) people will want to go home.
 
 <table align="left">
@@ -42,7 +41,8 @@ Each event follows this general planning. It is flexible but keep in mind that m
 </table>
 
 
-### Topic and presentations
+
+## Topic and presentations
 Just about anything related to UX Design can be a topic for the UX Cocktail Hour. Have a look at [previous events](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/#past) to see what kind of topics have already been covered.
 
 For a topic start with the knowledge or experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as large as a new view on the future of UX.
@@ -54,14 +54,14 @@ From experience the audience is particularly interested in things they can apply
 You can also consider the option to bring in an external speaker. Perhaps you have a client or somebody you know who can present something. If you are looking for options I can help as well.
 
 
-### Workshops
-Organizing a small workshop related to the topic is a nice addition too. It makes for a more dynamic evening and allows the attendees to apply what they just learned. Just keep it simple and don't expect the results to be too serious. Also keep in mind what to do with the result. Having each team present them will take a long time. On the other hand not presenting them can also be a bit of a let down.
+## Workshops
+Organizing a small workshop related to the topic is a nice addition too. It makes for a more dynamic evening and allows the attendees to apply what they just learned. Just keep it simple and don't expect the results to be too serious. Also keep in mind what to do with the result. Having each team present them will take a long time. On the other hand not presenting them can also be a bit of a let down. So you need to find a balance between the two.
 
 
-### Attendees
-The number of attendees to be invited depends on the available space. In general it is between 40 and 60 people. Don't forget to invite your own employees, network and perhaps customers. They are welcome too of course.
+## Attendees
+The number of attendees to be invited depends on the available space. In general it is between 40 and 70 people. Don't forget to invite your own employees, network and perhaps customers. They are welcome too of course. Because there is always a number of no-shows we allow for a few more spots on the RSVP list.
 
-All the RSVP's are handled through the meetup.com page. We can provide an up to date list of attendees on the day of the event. E-mail addresses of the attendees are not available for the host.
+All the RSVP's are handled through the meetup.com page. We can provide an up to date list of attendees before the event. E-mail addresses of the attendees are not available for the host.
 
 
 ## To-do list
@@ -98,8 +98,8 @@ Below are some things that have proven useful to put on your to-do list.
 
 ### After the event
 
-- Clean up and do the dishes
-- Make presentations available to attendees
+- Clean up and do the dishes.
+- Make presentations available to attendees if possible.
 - Share photos and posts through your own channels (blog, twitter, linkedin, etc)
 
 ## Contact
