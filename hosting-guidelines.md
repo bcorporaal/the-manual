@@ -15,7 +15,7 @@ We organize about 3 to 4 events a year. Currently we have about 1300 members in 
 
 
 ## Hosting a meetup
-If you want to organize an UX Cocktail Hour just [get in touch](mailto://bob@reefscape.net). As you can read below it is not very complex. We just need a place, some drinks and a presentation. It is a great way to share your knowledge, get to know new people and be inspired by the audience.
+If you want to organize an UX Cocktail Hour just **[get in touch](mailto://bob@reefscape.net)**. As you can read below it is not very complex. We just need a place, some drinks and a presentation. It is a great way to share your knowledge, get to know new people and be inspired by the audience.
 
 
 ## General event outline
