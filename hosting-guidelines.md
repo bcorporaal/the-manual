@@ -7,17 +7,20 @@ This is a short overview of how to organize an UX Cocktail Hour meetup. No worri
 ## The concept
 The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and was organized by [Peter Boersma](https://twitter.com/pboersma). In 2011 it found its way to Rotterdam.
 
+The Rotterdam edition is organized by [Bob Corporaal](https://reefscape.net).
+
 Each event is at a different location in or nearby Rotterdam. Most often at a company or organization that works in the field of UX. The goal is to educate and inspire the UX community by sharing knowledge and networking. Part of this is having a peek behind the scenes of a company but also meeting other people in the field. In addition we have speakers and workshops on different topics related to User Experience. This can design, research, projects, education, technology, development or any combination. Of course there is ample opportunity to enjoy a drink and chat.
 
-We organize are about 3 to 4 events a year. Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
+We organize about 3 to 4 events a year. Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
 
 
 ## Hosting a meetup
-< To be written >
+If you want to organize an UX Cocktail Hour just [get in touch](mailto://bob@reefscape.net). As you can read below it is not very complex. We just need a place, some drinks and a presentation.
 
+Below you can read some practical guidelines for organizing a meetup.
 
-## General event outline
-Each event follows this general planning. It is flexible but keep in mind that most visitors have just finished an eight hour work day. So keep the evening compact and leave room for drinks and networking at the end. Around 22.00 you will find that (some) people will want to go home.
+### General event outline
+Each event follows this general planning. It is flexible but keep in mind that most attendees have just finished an eight hour work day. So keep the evening compact and leave room for drinks and networking at the end. Around 22.00 you will find that (some) people will want to go home.
 
 <table align="left">
     <tr>
@@ -39,7 +42,7 @@ Each event follows this general planning. It is flexible but keep in mind that m
 </table>
 
 
-## Topic and presentations
+### Topic and presentations
 Just about anything related to UX Design can be a topic for the UX Cocktail Hour. Have a look at [previous events](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/#past) to see what kind of topics have already been covered.
 
 For a topic start with the knowledge or experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as large as a new view on the future of UX.
@@ -51,21 +54,22 @@ From experience the audience is particularly interested in things they can apply
 You can also consider the option to bring in an external speaker. Perhaps you have a client or somebody you know who can present something. If you are looking for options I can help as well.
 
 
-## Workshops
+### Workshops
 Organizing a small workshop related to the topic is a nice addition too. It makes for a more dynamic evening and allows the attendees to apply what they just learned. Just keep it simple and don't expect the results to be too serious. Also keep in mind what to do with the result. Having each team present them will take a long time. On the other hand not presenting them can also be a bit of a let down.
 
 
-## Attendees
+### Attendees
 The number of attendees to be invited depends on the available space. In general it is between 40 and 60 people. Don't forget to invite your own employees, network and perhaps customers. They are welcome too of course.
 
-All the RSVP's are handled through the meetup.com page. If needed I can provide an up to date list of attendees on the day of the event. E-mail addresses of the attendees are not available for the host.
+All the RSVP's are handled through the meetup.com page. We can provide an up to date list of attendees on the day of the event. E-mail addresses of the attendees are not available for the host.
 
 
 ## To-do list
-Here are some things that have proven useful to put on your to-do list.
+Below are some things that have proven useful to put on your to-do list.
 
-### Planning the meetup (together with the UX Cocktail Hour organization)
+### Planning the meetup
 
+(together with the UX Cocktail Hour organization)
 - Pick a topic that fits both your organization and the UX Cocktail Hour
 - Find speakers to go with the topic - Is the perhaps a workshop possible to?
 - Determine the language for the evening. Dutch is our preference but English is no problem.
@@ -76,7 +80,7 @@ Here are some things that have proven useful to put on your to-do list.
 
 - Set a budget for the evening - keep in mind that the UX Cocktail Hour has no budget available.
 - Set a schedule for the evening.
-- Check with building security and make sure visitors can enter.
+- Check with building security and make sure attendees can enter without too much difficulty.
 - Ensure there is sufficient seating and coat hangers.
 - Do some shopping for drinks and snacks (on average people drink 3 to 4 drinks).
 - Have somebody take pictures.
@@ -87,12 +91,16 @@ Here are some things that have proven useful to put on your to-do list.
 
 ### On the day
 
-- Create sign so visitors can find their way in the building.
+- Create sign so attendees can find their way to the right place in the building and to the toilets.
 - Check if the projector/television is working properly and adapters are available.
-- Make sure badges are available for the visitors
+- Make sure badges are available for the attendees.
+- Have somebody at the door to check the RSVP list.
 
 ### After the event
 
 - Clean up and do the dishes
 - Make presentations available to attendees
 - Share photos and posts through your own channels (blog, twitter, linkedin, etc)
+
+## Contact
+If you have any additions or comments to this document either [create an issue](https://github.com/ux010/the-manual/issues/new) here on github or send an email to [bob@reefscape.net](bob@reefscape.net).
