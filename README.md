@@ -4,7 +4,11 @@
 This repository is for anything related to organizing the [UX Cocktail Hour Rotterdam](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/) meetups.
 
 ## About this meetup
-The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. It was founded in 2001 in Amsterdam by Peter Boersma and  found its way to Rotterdam in 2011. We have speakers and workshops on topics related to UX: design, research, projects, education and development. There is ample opportunity to enjoy a drink and chat. There are about 4 events a year. Each edition is at a different location in or nearby Rotterdam.
+The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and is organized by Peter Boersma. In 2011 it found its way to Rotterdam.
+
+The Rotterdam edition is organized by **[Bob Corporaal](https://reefscape.net)**.
+
+We have speakers and workshops on topics related to UX: design, research, projects, education and development. There is ample opportunity to enjoy a drink and chat. There are about 4 events a year. Each edition is at a different location in or nearby Rotterdam.
 
 Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
 
