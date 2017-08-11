@@ -5,11 +5,11 @@ This is a short overview of how to organize an UX Cocktail Hour meetup. No worri
 
 
 ## The concept
-The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and is organized by Peter Boersma. In 2011 the event found its way to Rotterdam.
+The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience Design. The first UX Cocktail Hour started in 2001 in Amsterdam and is organized by Peter Boersma. In 2011 the event found its way to Rotterdam.
 
 The Rotterdam edition is organized by **[Bob Corporaal](https://reefscape.net)**.
 
-Each event is at a different location in or nearby Rotterdam. Most often at a company or organization that works in the field of UX. The goal is to educate and inspire the UX community by sharing knowledge and networking. Part of this is having a peek behind the scenes of a company but also meeting other people in the field. In addition we have speakers and workshops on different topics related to User Experience. This can design, research, projects, education, technology, development or any combination. Of course there is ample opportunity to enjoy a drink and chat.
+Each event is at a different location in or close to Rotterdam. Most often at a company or organization that works in the field of UX. The goal is to educate and inspire the UX community by sharing knowledge and networking. Part of this is catching a peek behind the scenes of a company but also meeting other people in the field. In addition we have speakers and workshops on different topics related to User Experience. This can be design, research, projects, education, technology, development or any combination. Of course there is ample opportunity to enjoy a drink and chat.
 
 We organize about 3 to 4 events a year. Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
 
@@ -49,7 +49,7 @@ Each event follows this general planning. It is flexible but keep in mind that m
 ## Topic and presentations
 Just about anything related to UX Design can be a topic for the UX Cocktail Hour. Have a look at [previous events](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/#past) to see what kind of topics have already been covered.
 
-When picking a topic start with the knowledge or experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as big as a new view on the future of UX.
+When picking a topic start with the knowledge and experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as big as a new view on the future of UX.
 
 Keep in mind though that you are talking to experienced colleagues. No need to explain what UX is or how beneficial it is to think about the user. Also presentations that just show a portolio or a collection of 'cool' projects don't get high scores. So dig deeper than that and think about what you would find an interesting talk at a conference. Present something that your would want to learn as if you would present it to a colleague. Just as if it was a meetup…
 
@@ -59,7 +59,7 @@ You can also consider the option to bring in an external speaker. Perhaps you ha
 
 
 ## Workshops
-Organizing a small workshop related to the topic is a nice addition too. It makes for a more dynamic evening and allows the attendees to apply what they just learned. Just keep it simple and don't expect the results to be too serious. Also keep in mind what to do with the result. Having each team present them will take a long time. On the other hand not presenting them can also be a bit of a let down. So you need to find a balance between the two.
+Organizing a small workshop related to the topic is a nice addition too. It makes for a more dynamic evening and allows the attendees to apply what they just learned. Just keep it simple and don't expect the results to be too serious. Also keep in mind what to do with the results. Having each team present their concepts will take a long time. On the other hand not presenting them can also be a bit of a let down. So you need to find a balance between the two.
 
 
 ## Attendees
