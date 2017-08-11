@@ -5,7 +5,7 @@ This is a short overview of how to organize an UX Cocktail Hour meetup. No worri
 
 
 ## The concept
-The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and is organized by Peter Boersma. In 2011 it found its way to Rotterdam.
+The UX Cocktail Hour Rotterdam is an informal event for everyone who has an interest in User Experience. The first UX Cocktail Hour started in 2001 in Amsterdam and is organized by Peter Boersma. In 2011 the event found its way to Rotterdam.
 
 The Rotterdam edition is organized by **[Bob Corporaal](https://reefscape.net)**.
 
@@ -73,23 +73,23 @@ In the **[identity directory](identity)** of this repository you can find the UX
 
 
 ## To-do list
-Below are some things that have proven useful to put on your to-do list.
+Below are some things that have proven to be useful to put on your to-do list.
 
 ### Planning the meetup
 
 (together with the UX Cocktail Hour organization)
 - Pick a topic that fits both your organization and the UX Cocktail Hour
-- Find speakers to go with the topic - Is the perhaps a workshop possible to?
+- Find speakers to go with the topic - Is there perhaps a workshop possible too?
 - Determine the language for the evening. Dutch is our preference but English is no problem.
-- Pick a date.
-- Plan the evening. Leave ample time for networking and keep in mind that things always run late.
+- Pick a date. A Tuesday, Wednesday or Thursday works best.
+- Make a draft schedule. Leave ample time for networking and keep in mind that things always run late.
 
 ### Ahead of the meetup
 
 - Set a budget for the evening - keep in mind that the UX Cocktail Hour has no budget available.
-- Set a schedule for the evening.
+- Set a more detailed schedule for the evening.
 - Check with building security and make sure attendees can enter without too much difficulty.
-- Ensure there is sufficient seating and coat hangers.
+- Ensure there is sufficient seating and place to hang coats.
 - Do some shopping for drinks and snacks (on average people drink 3 to 4 drinks).
 - Have somebody take pictures.
 - Decorate the place. Also remove or cover any sensitive projects and materials.
