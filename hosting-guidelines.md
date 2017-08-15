@@ -1,7 +1,7 @@
 <p align="center"><img src="/identity/ux_cocktail_hour_logo_text_v02.png" width=499 height=136 alt="UX Cocktail Hour Rotterdam logo"></p>
 
-# Hosting an UX Cocktail Hour Rotterdam meetup event
-This is a short overview of how to organize an UX Cocktail Hour meetup. No worries, it is nothing fancy.
+# Hosting a UX Cocktail Hour Rotterdam meetup event
+This is a short overview of how to organize a UX Cocktail Hour meetup. No worries, it is nothing fancy.
 
 
 ## The concept
@@ -15,7 +15,7 @@ We organize about 3 to 4 events a year. Currently we have about 1300 members in 
 
 
 ## Hosting a meetup
-If you want to organize an UX Cocktail Hour just **[get in touch](mailto://bob@reefscape.net)**. As you can read below it is not very complex. We just need a place, some drinks and a presentation. It is a great way to share your knowledge, get to know new people and be inspired by the audience.
+If you want to organize a UX Cocktail Hour just **[get in touch](mailto://bob@reefscape.net)**. As you can read below it is not very complex. We just need a place, some drinks and a presentation. It is a great way to share your knowledge, get to know new people and be inspired by the audience.
 
 
 ## General event outline
