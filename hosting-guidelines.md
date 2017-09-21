@@ -51,7 +51,7 @@ Just about anything related to UX Design can be a topic for the UX Cocktail Hour
 
 When picking a topic start with the knowledge and experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as big as a new view on the future of UX.
 
-Keep in mind though that you are talking to experienced colleagues. No need to explain what UX is or how beneficial it is to think about the user. Also presentations that just show a portolio or a collection of 'cool' projects don't get high scores. So dig deeper than that and think about what you would find an interesting talk at a conference. Present something that your would want to learn as if you would present it to a colleague. Just as if it was a meetup…
+Keep in mind though that you are talking to experienced colleagues. No need to explain what UX is or how beneficial it is to think about the user. Also presentations that just show a portolio or a collection of 'cool' projects don't get high scores. So dig deeper than that. Think about what you would find an interesting talk at a conference. Present something that your would want to learn as if you would present it to a colleague. Just as if it was a meetup…
 
 From experience the audience is particularly interested in things they can apply 'the next day'. That and funny stories of spectacular failures.
 
@@ -97,14 +97,14 @@ Below are some things that have proven to be useful to put on your to-do list.
 - Make a playlist with party music or look for your resident dj.
 - Enlist people to open the door, help with mixing drinks, handing out badges, etc.
 
-### On the day
+### On the day of the meetup
 
 - Create sign so attendees can find their way to the right place in the building and to the toilets.
 - Check if the projector/television is working properly and adapters are available.
 - Make sure badges are available for the attendees.
 - Have somebody at the door to check the RSVP list.
 
-### After the event
+### After the meetup
 
 - Clean up and do the dishes.
 - Make presentations available to attendees if possible.
