@@ -55,7 +55,7 @@ Keep in mind though that you are talking to experienced colleagues. No need to e
 
 From experience the audience is particularly interested in things they can apply 'the next day'. That and funny stories of spectacular failures.
 
-You can also consider the option to bring in an external speaker. Perhaps you have a client or somebody you know who is an expert on a particular topic. If you are looking for options I can help as well.
+You can also consider the option to bring in an external speaker. Perhaps you have a client or somebody you know who is an expert on a particular topic. If you are looking for options we can help as well.
 
 
 ## Workshops
@@ -63,7 +63,7 @@ Organizing a small workshop related to the topic is a nice addition too. It make
 
 
 ## Attendees
-The number of attendees to be invited mostly depends on the available space. In general it is between 40 and 70 people. Don't forget to invite your own employees, network and perhaps customers. They are welcome too of course. Because there is always a number of no-shows we allow for a few more spots on the RSVP list.
+The number of attendees to be invited mostly depends on the available space. In general we have between 40 and 70 people. Don't forget to invite your own employees, network and perhaps customers. They are welcome too of course. Because there is always a number of no-shows we allow for a few more spots on the RSVP list.
 
 All the RSVP's are handled through the meetup.com page. We can provide an up to date list of attendees before the event. E-mail addresses of the attendees are not available for the host.
 
