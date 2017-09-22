@@ -47,7 +47,7 @@ Each event follows this general planning. It is flexible but keep in mind that m
 
 
 ## Topic and presentations
-Just about anything related to UX Design can be a topic for the UX Cocktail Hour. Have a look at [previous events](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/#past) to see what kind of topics have already been covered.
+Just about anything related to UX Design can be a topic for the UX Cocktail Hour. Have a look at [previous events](/previous-events.md) to see what kind of topics have already been covered.
 
 When picking a topic start with the knowledge and experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as big as a new view on the future of UX.
 
