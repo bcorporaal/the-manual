@@ -5,8 +5,11 @@ If you are interested in hosting a meetup read the [hosting guidelines and tips]
 
 More details for each event can be found on the [Meetup page](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/).
 
+### #22: AI, Robots and the role of the designer
+Thursday, November 16, 2017 at Colours
+
 ### #21: Design Sprints
-Wednesday, February 22, 2017 at UNITid
+Wednesday, February 22, 2017 at UNITiD
 
 ### #20: Scaling UX at Exact
 Wednesday, November 23, 2016 at Exact, Delft
