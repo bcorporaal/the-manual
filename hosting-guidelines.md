@@ -110,5 +110,19 @@ Below are some things that have proven to be useful to put on your to-do list.
 - Make presentations available to attendees if possible.
 - Share photos and posts through your own channels (blog, twitter, linkedin, etc)
 
+## Tips
+
+**What works well**
+- Share your expertise.
+- Make it practical.
+- Have fun but don't let it get in the way of sharing knowledge.
+- Don't pretend everything goes perfect in your projects. Be honest and share your failures.
+
+**What doesn't work so well**
+- Talking too much about your own company.
+- Explaining what UX is or similar things that everybody already knows.
+- Unprepared presentations.
+- Loooooooong presentations.
+
 ## Contact
 If you have any additions or comments to this document either [create an issue](https://github.com/ux010/the-manual/issues/new) here on github or send an email to [bob@reefscape.net](bob@reefscape.net).
