@@ -1,7 +1,14 @@
 <p align="center"><img src="/identity/ux_cocktail_hour_logo_text_v02.png" width=499 height=136 alt="UX Cocktail Hour Rotterdam logo"></p>
 
 # Event checklist
-Below are some things that have proven to be useful to put on your to-do list. See the [hosting guidelines](/hosting-guidelines.md) for a general outline.
+Below are some things that have proven to be useful to put on your to-do list. See the [hosting guidelines](/hosting-guidelines.md) for a general outline of the event.
+
+### What we need to announce the event
+
+1. Location
+2. Date & Starting time
+3. General theme
+4. Number of seats available
 
 ### Planning the meetup
 
@@ -12,6 +19,9 @@ Below are some things that have proven to be useful to put on your to-do list. S
 - [ ] Determine the language for the evening. Dutch is our preference but English is no problem.
 - [ ] Pick a date. A Tuesday, Wednesday or Thursday works best.
 - [ ] Make a draft schedule. Leave ample time for networking and keep in mind that things always run late.
+- [ ] Provide a theme and short blurb that we can put up on the [Meetup page](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/). See other events for inspiration.
+
+
 
 ### Ahead of the meetup
 
