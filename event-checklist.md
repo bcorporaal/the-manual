@@ -1,7 +1,7 @@
 <p align="center"><img src="/identity/ux_cocktail_hour_logo_text_v02.png" width=499 height=136 alt="UX Cocktail Hour Rotterdam logo"></p>
 
 # Event checklist
-Below are some things that have proven to be useful to put on your to-do list. See the [hosting guidelines](/hosting-guidelines.md) for a general outline of the event.
+Below are some things that have proven to be useful to put on your to-do list. <br/>See the [hosting guidelines](/hosting-guidelines.md) for a general outline of the event.
 
 ### What we need to announce the event
 
@@ -50,4 +50,5 @@ Below are some things that have proven to be useful to put on your to-do list. S
 - [ ] Clean up and do the dishes.
 - [ ] Make presentations available to attendees if possible.
 - [ ] Share photos and posts through your own channels (blog, twitter, linkedin, etc).
+- [ ] Share the photos on the [Meetup page](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/).
 - [ ] Relax. You just had a fun evening!
