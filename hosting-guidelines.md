@@ -80,42 +80,7 @@ In the **[identity directory](identity)** of this repository you can find the UX
 
 
 ## To-do list
-Below are some things that have proven to be useful to put on your to-do list.
-
-### Planning the meetup
-
-(together with the UX Cocktail Hour organization)
-- Pick a topic that fits both your organization and the UX Cocktail Hour
-- Find speakers to go with the topic - Is there perhaps a workshop possible too?
-- Determine the language for the evening. Dutch is our preference but English is no problem.
-- Pick a date. A Tuesday, Wednesday or Thursday works best.
-- Make a draft schedule. Leave ample time for networking and keep in mind that things always run late.
-
-### Ahead of the meetup
-
-- Set a budget for the evening - keep in mind that the UX Cocktail Hour has no budget available.
-- Set a more detailed schedule for the evening.
-- Check with building security and make sure attendees can enter without too much difficulty.
-- Ensure there is sufficient seating and place to hang coats.
-- Do some shopping for drinks and snacks (on average people drink 3 to 4 drinks).
-- Have somebody take pictures.
-- Decorate the place. Also remove or cover any sensitive projects and materials.
-- Invite your own network. If possible through the meetup site.
-- Make a playlist with party music or look for your resident dj.
-- Enlist people to open the door, help with mixing drinks, handing out badges, etc.
-
-### On the day of the meetup
-
-- Create sign so attendees can find their way to the right place in the building and to the toilets.
-- Check if the projector/television is working properly and adapters are available.
-- Make sure badges are available for the attendees.
-- Have somebody at the door to check the RSVP list.
-
-### After the meetup
-
-- Clean up and do the dishes.
-- Make presentations available to attendees if possible.
-- Share photos and posts through your own channels (blog, twitter, linkedin, etc)
+See the full event checklist [event checklist](/event-checklist.md) for some things to put on your to-do list when organizing a meetup.
 
 ## Presentation tips
 
