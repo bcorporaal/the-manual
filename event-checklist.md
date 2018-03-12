@@ -30,8 +30,8 @@ Below are some things that have proven to be useful to put on your to-do list. <
 - [ ] Check with building security and make sure attendees can enter without too much difficulty.
 - [ ] Ensure there is sufficient seating and place to hang coats.
 - [ ] Do some shopping for drinks and snacks (on average people drink 3 to 4 drinks).
-- [ ] Have somebody take pictures.
-- [ ] Invite your own network. If possible through the meetup site.
+- [ ] Find somebody who will take pictures.
+- [ ] Invite your own network. If possible through the meetup site otherwise keep in mind the total available seats.
 - [ ] Share the event through your own social media channels. Refer people to the [Meetup page](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/) to sign up.
 - [ ] Make a playlist with party music or look for your resident dj.
 - [ ] Enlist people to open the door, help with mixing drinks, handing out badges, etc.
@@ -39,7 +39,7 @@ Below are some things that have proven to be useful to put on your to-do list. <
 ### On the day of the meetup
 
 - [ ] Put up signs so attendees can find their way to the right place in the building and to the toilets.
-- [ ] Put up a sign if wifi is available.
+- [ ] Put up signs if wifi is available.
 - [ ] Decorate the place. Also remove or cover any sensitive projects and materials.
 - [ ] Check if the projector/television is working properly and adapters are available.
 - [ ] Make sure badges are available for the attendees if you want to use those.
