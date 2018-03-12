@@ -10,6 +10,8 @@ We have speakers and workshops on topics related to UX: design, research, projec
 
 Currently we have more than 1500 members in the community ranging from Designers, Developers to UX Researchers.
 
+Have a look at the [previous events](/previous-events.md) to see the events we have organized so far.
+
 ## Organizing a meetup
 If you are interested in hosting a meetup read the [hosting guidelines and tips](/hosting-guidelines.md) and [event checklist](/event-checklist.md) for more information and get in touch with [Bob Corporaal](mailto:bob@reefscape.net).
 
