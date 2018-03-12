@@ -10,7 +10,7 @@ The Rotterdam edition is organized by **[Bob Corporaal](https://reefscape.net)**
 
 We have speakers and workshops on topics related to UX: design, research, projects, education and development. There is ample opportunity to enjoy a drink and chat. There are about 4 events a year. Each edition is at a different location in or nearby Rotterdam.
 
-Currently we have about 1300 members in the community ranging from designers, developers to ux researchers.
+Currently we have more than 1500 members in the community ranging from Designers, Developers to UX Researchers.
 
 ## Organizing a meetup
 If you are interested in hosting a meetup read the [hosting guidelines and tips](/hosting-guidelines.md) for more information and get in touch with [Bob Corporaal](mailto:bob@reefscape.net).

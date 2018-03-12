@@ -21,20 +21,27 @@ If you want to organize a UX Cocktail Hour just **[get in touch](mailto://bob@re
 ## General event outline
 Each event follows this general planning. It is flexible but keep in mind that most attendees have just finished an eight hour work day. So keep the evening compact and leave room for drinks and networking at the end. Around 22.00 you will find that (some) people will want to go home.
 
+### Example program
+Feel free to adjust as needed.
+
 <table align="left">
     <tr>
-        <td align="left">19.00</td>
+        <td align="left">18.30</td>
         <td align="left">Open doors</td>
     </tr>
     <tr>
-        <td align="left">19.30</td>
+        <td align="left">19.00</td>
         <td align="left">Introduction (by Bob)</td>
     </tr>
     <tr>
-        <td align="left">19.35</td>
+        <td align="left">19.05</td>
         <td align="left">Start presentations</td>
     </tr>
-      <tr>
+    <tr>
+        <td align="left">20.00 - 20.15</td>
+        <td align="left">Break</td>
+    </tr>
+    <tr>
         <td align="left">21.00</td>
         <td align="left">End of presentations</td>
     </tr>
@@ -51,7 +58,7 @@ Just about anything related to UX Design can be a topic for the UX Cocktail Hour
 
 When picking a topic start with the knowledge and experience of your organization. There is probably something you have a special interest in or experience with. This can be something as simple as a new design method or as big as a new view on the future of UX.
 
-Keep in mind though that you are talking to experienced colleagues. No need to explain what UX is or how beneficial it is to think about the user. Also presentations that just show a portolio or a collection of 'cool' projects don't get high scores. So dig deeper than that. Think about what you would find an interesting talk at a conference. Present something that your would want to learn as if you would present it to a colleague. Just as if it was a meetup…
+Keep in mind though that you are talking to experienced colleagues. No need to explain what UX is or how beneficial it is to think about the user. Also presentations that just show a portolio or a collection of 'cool' projects don't get high scores. So dig deeper than that. Think about what you would find an interesting talk at a conference. Share something that your would want to learn and present it as if you would present it to a colleague. So, just as if this was a meetup…
 
 From experience the audience is particularly interested in things they can apply 'the next day'. That and funny stories of spectacular failures.
 
@@ -110,7 +117,7 @@ Below are some things that have proven to be useful to put on your to-do list.
 - Make presentations available to attendees if possible.
 - Share photos and posts through your own channels (blog, twitter, linkedin, etc)
 
-## Tips
+## Presentation tips
 
 **What works well**
 - Share your expertise.
@@ -123,6 +130,10 @@ Below are some things that have proven to be useful to put on your to-do list.
 - Explaining what UX is or similar things that everybody already knows.
 - Unprepared presentations.
 - Loooooooong presentations.
+
+## General tips
+
+- Leave plenty of room in your schedule. Things always start later and take longer than planned.
 
 ## Contact
 If you have any additions or comments to this document either [create an issue](https://github.com/ux010/the-manual/issues/new) here on github or send an email to [bob@reefscape.net](bob@reefscape.net).

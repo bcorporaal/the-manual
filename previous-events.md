@@ -5,6 +5,9 @@ If you are interested in hosting a meetup read the [hosting guidelines and tips]
 
 More details for each event can be found on the [Meetup page](https://www.meetup.com/Rotterdam-UX-Cocktail-Hours/).
 
+### #23: The Impact of Design
+Thursday, March 8, 2018 at We Are Reasonable People
+
 ### #22: AI, Robots and the role of the designer
 Thursday, November 16, 2017 at Colours
 
