@@ -21,6 +21,7 @@ If you want to organize a UX Cocktail Hour just **[get in touch](mailto://bob@re
 ## General event outline
 Each event follows this general planning. It is flexible but keep in mind that most attendees have just finished an eight hour work day. So keep the evening compact and leave room for drinks and networking at the end. Around 22.00 you will find that (some) people will want to go home.
 
+
 ### Example program
 Feel free to adjust as needed.
 
@@ -82,6 +83,7 @@ In the **[identity directory](identity)** of this repository you can find the UX
 ## To-do list
 See the full event checklist [event checklist](/event-checklist.md) for some things to put on your to-do list when organizing a meetup.
 
+
 ## Presentation tips
 
 **What works well**
@@ -96,9 +98,11 @@ See the full event checklist [event checklist](/event-checklist.md) for some thi
 - Unprepared presentations.
 - Loooooooong presentations.
 
+
 ## General tips
 
 - Leave plenty of room in your schedule. Things always start later and take longer than planned.
+
 
 ## Contact
 If you have any additions or comments to this document either [create an issue](https://github.com/ux010/the-manual/issues/new) here on github or send an email to [bob@reefscape.net](bob@reefscape.net).
